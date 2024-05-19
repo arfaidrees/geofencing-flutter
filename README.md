@@ -1,8 +1,8 @@
-##Geofencing App with Google Maps in Flutter
-#Overview
+## Geofencing App with Google Maps in Flutter
+# Overview
 This Flutter application demonstrates geofencing functionality using Google Maps. The app tracks the user's location in real-time, updates their position on the map, and checks if the user is within a defined geofence. If the user crosses the geofence boundary, a Snackbar notification is displayed
 
-#Features
+# Features
 Real-time location tracking
 Google Maps integration
 Geofencing with a defined radius
